@@ -1,4 +1,4 @@
-class DockerConnector < Formula
+class Mn < Formula
     desc "MarginNote CLi"
     # homepage ""
     url "https://raw.githubusercontent.com/xiehengjian/homebrew-brew/main/Formula/mn.tar.gz"
